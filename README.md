@@ -38,5 +38,5 @@ Kaggle - Student Performance Factors (6607 records)
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 ## Institution
-Saanvi Kavarikuntla 
+ Made By: Saanvi Kavarikuntla, 
 Manipal University Jaipur
